@@ -4,5 +4,5 @@ Package.describe({
 
 
 Package.on_use(function (api) {
-  api.add_files('test-smart-package.js', 'client');
+  api.add_files('test-smart-package.js', 'server');
 });
